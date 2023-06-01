@@ -8,7 +8,7 @@
 
 📖 I'm a senior at <a href="https://www.neumont.edu/">Neumont College of Computer Science</a>, graduating with a bachelor's degree in Computer Science!
 
-💼 [Resume](https://github.com/JakobusV/JakobusV/Vanderniet%2C%20Jakob%20-%20BSCS%20(github).pdf)
+💼 Here is my [Resume](https://github.com/JakobusV/JakobusV/blob/main/Vanderniet%2C%20Jakob%20-%20BSCS%20(github).pdf)!
 
 <!--
 **JakobusV/JakobusV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
