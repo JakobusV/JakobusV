@@ -4,13 +4,14 @@
 
 #### About me
 
-😎 I love spending time with my friends and family
+😎 Outside of coding, I love spending time with my friends and family
 
-📖 I'm a senior at <a href="https://www.neumont.edu/">Neumont College of Computer Science</a>, graduating with a bachelor's degree in Computer Science!
-
-💼 Here is my [Resume](https://github.com/JakobusV/JakobusV/blob/main/Vanderniet%2C%20Jakob%20-%20BSCS%20(github).pdf)!
+📚 I'm a valedictorian alumni of <a href="https://www.neumont.edu/">Neumont College of Computer Science</a>, with a bachelor's degree in Computer Science!
 
 <!--
+OUTDATED
+💼 Here is my [Resume](https://github.com/JakobusV/JakobusV/blob/main/Vanderniet%2C%20Jakob%20-%20BSCS%20(github).pdf)!
+
 **JakobusV/JakobusV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
